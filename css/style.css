@@ -129,6 +129,15 @@ header {
     width: 60%;
 }
 
+/*Skills
+-----------------------------*/
+.skills {
+    background: #FF7F50;
+}
+.skills p{
+    width: 75%;
+}
+
 /*Contact infos
 -----------------------------*/
 footer {
