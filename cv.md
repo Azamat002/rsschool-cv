@@ -1,7 +1,7 @@
 # Azamat Makulbay
 
 ## Skills
-### Stacks: Java, Spring Boot, Spring Security, JavaScript(DOM, async), Apache Maven, Selenium
+### Stacks: Java, Spring Boot, Spring Security, JavaScript (DOM, async), Apache Maven, Selenium
 ### Databases: MySQL, PostgreSQL
 
 ## Contacts
