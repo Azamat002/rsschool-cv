@@ -14,6 +14,12 @@
 ### Specialty: Software Engineering
 ### Graduation year: 2023
 
+## Languages
+### Kazakh — Native
+### English — B2 — Upper Intermediate
+### Russian — C2 — Advanced
+
+
 ## Contacts
 ### email: amakulbaj@gmail.com
 ### phone: +77713852175
