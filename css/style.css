@@ -129,9 +129,18 @@ header {
     width: 60%;
 }
 
+/*Skills
+-----------------------------*/
+.skills {
+    background: #FF7F50;
+}
+.skills p{
+    width: 75%;
+}
+
 /*Contact infos
 -----------------------------*/
-footer {
+.footer {
     background: #2E294E;
     color: white;
 
@@ -152,7 +161,7 @@ footer {
 @media screen and (min-width: 750px) {
     /*750px and larger*/
 
-    header, footer{
+    header, .footer{
         text-align: center;
     }
 
