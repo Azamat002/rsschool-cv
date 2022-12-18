@@ -147,7 +147,7 @@ body {
     margin-top: 5px;
 }
 
-.contactInfo.language .percent div {
+.contactInfo.language .percent span {
     position: absolute;
     top: 0;
     left: 0;
