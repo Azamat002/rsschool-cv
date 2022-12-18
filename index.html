@@ -10,7 +10,7 @@
 <div class="container">
     <div class="left_Side">
         <div class="profileText">
-            <div class="imgBx"><img src="sources/photo-without-whitespace.png" alt=""></div>
+            <div class="imgBx"><img src="sources/photo-without-whitespace.png" alt="main_photo"></div>
             <h2>Azamat Makulbay<br><span>Web Developer</span></h2>
         </div>
 
@@ -106,7 +106,7 @@
         </div>
 
         <!--        Projects-->
-        <div class="contactInfo projects">
+        <footer class="contactInfo projects">
             <h3 class="title">Projects</h3>
             <ul>
 
@@ -120,7 +120,7 @@
                         class="fa fa-external-link" aria-hidden="true"></i>
                 </li>
             </ul>
-        </div>
+        </footer>
 
     </div>
 
@@ -280,6 +280,20 @@
                 <li><i class="fa fa-pencil-square" aria-hidden="true"></i> Editing</li>
                 <li><i class="fa fa-grav" aria-hidden="true"></i> Workout</li>
             </ul>
+        </div>
+        <div class="about code">
+            <h2 class="title2">Code</h2>
+            <pre>
+            <code>
+                function palindrome(str) {
+                var re = /[\W_]/g;
+                var lowRegStr = str.toLowerCase().replace(re, '');
+                var reverseStr = lowRegStr.split('').reverse().join('');
+                return reverseStr === lowRegStr;
+                }
+                palindrome("A man, a plan, a canal. Panama");
+            </code>
+                </pre>
         </div>
     </div>
 </div>
